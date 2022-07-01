@@ -28,4 +28,4 @@ SKILLS
 
 
 <br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj={swjdgy})](https://solved.ac/{swjdgy})
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=swjdgy)](https://solved.ac/swjdgy)
