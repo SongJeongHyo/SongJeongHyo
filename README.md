@@ -1,4 +1,5 @@
 ### Hi there 👋
+Hello i'm JeongHyo Song
 
 <!--
 **SongJeongHyo/SongJeongHyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +16,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<br><br>
-SKILLS
 <br>
+
+![SongJeongHyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SongJeongHyo&show_icons=true&theme=dracula)
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=swjdgy)](https://solved.ac/swjdgy/)
+
+###  :muscle:Skills
+<p align ="center">
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
@@ -27,5 +34,6 @@ SKILLS
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
 
-<br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=swjdgy)](https://solved.ac/swjdgy)
+###  :mailbox: Contact
+<a href="mailto:swjdgy@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logoGmail&logoColor=white" ></a>
+
