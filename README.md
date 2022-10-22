@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSongJeongHyo&count_bg=%23BF3DC8&title_bg=%23BFFB75&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <br>
 
 ![SongJeongHyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SongJeongHyo&show_icons=true&theme=dracula)
