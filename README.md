@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hello i'm JeongHyo Song
+Hello i'm JeongHyo_Song
 
 <!--
 **SongJeongHyo/SongJeongHyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
