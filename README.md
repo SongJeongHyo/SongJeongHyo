@@ -1,6 +1,8 @@
 ### Hi there 👋
 I'm Jeonghyo Song
 
+[[Notion CV]](https://www.notion.so/Hi-I-m-Jeong-Hyo-Song-ff29e0b01180428c8e98d6cd6dd7d64d)
+
 <!--
 **SongJeongHyo/SongJeongHyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
